@@ -35,6 +35,7 @@ BOM
 | 0805 820k Ohm SMD resistor | 100 | N/A | N/A | N/A | Have? |
 | 0805 2M Ohm SMD resistor | 100 | N/A | N/A | N/A | Have? |
 | M2 Screws (20mm x8 and 4mm x8)| 16 | N/A | N/A | N/A | Have? |
+| 3DPrinted Shells+Plate| 3 | N/A | N/A | N/A | Have? |
 | Shipping |  |  | $20.73 |  |  |
 | Coupons |  |  | -$13.00 |  |  |
 | **Total** |  |  | **$53.32** |  |  |
