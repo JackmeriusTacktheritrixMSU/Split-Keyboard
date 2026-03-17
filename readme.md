@@ -34,6 +34,7 @@ BOM
 | 1N4184W Diodes | 100 | N/A | $4.77 | [Link](https://www.aliexpress.us/item/3256809772352005.html?spm=a2g0o.cart.0.0.46a538daSh2DJS&mp=1&pdp_npi=6%40dis%21USD%21USD%209.54%21USD%204.77%21%21USD%204.77%21%21%21%402101e83017737027362077455e2f9f%2112000050691298739%21ct%21US%217434485779%21%211%210%21&_gl=1*4o9f7y*_gcl_aw*R0NMLjE3NzM3MDE3OTIuQ2p3S0NBancxTjdOQmhBb0Vpd0FjUGNocDZjZm9MbWJFeHJpeEhseGhxQm5sM19CVXFTZWdTNlA5QUllUGg1SnFUQW82TlVySkJXMzF4b0N3UUVRQXZEX0J3RQ..*_gcl_dc*R0NMLjE3NzM3MDE3OTIuQ2p3S0NBancxTjdOQmhBb0Vpd0FjUGNocDZjZm9MbWJFeHJpeEhseGhxQm5sM19CVXFTZWdTNlA5QUllUGg1SnFUQW82TlVySkJXMzF4b0N3UUVRQXZEX0J3RQ..*_gcl_au*NDE0NzgwMTk1LjE3NzMxNzg3NzI.*_ga*MjEzOTYzMzUyMTA0MjEwOC4xNzczMTc4NzcxNDEx*_ga_VED1YSGNC7*czE3NzM3MDA1MzQkbzUkZzEkdDE3NzM3MDI3MzUkajM1JGwwJGgw&gatewayAdapt=glo2usa) | Need |
 | 0805 820k Ohm SMD resistor | 100 | N/A | N/A | N/A | Have? |
 | 0805 2M Ohm SMD resistor | 100 | N/A | N/A | N/A | Have? |
+| M2 Screws (20mm x8 and 4mm x8)| 16 | N/A | N/A | N/A | Have? |
 | Shipping |  |  | $20.73 |  |  |
 | Coupons |  |  | -$13.00 |  |  |
 | **Total** |  |  | **$53.32** |  |  |
