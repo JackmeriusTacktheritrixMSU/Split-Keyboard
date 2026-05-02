@@ -1,5 +1,6 @@
 	This is a split keyboard loosely based on Hack Club's (https://stasis.hackclub.com/starter-projects/split-keyboard.)
 It runs from bluetooth, on two NRF52840 Pro Micro clone boards that you can get on aliexpress for cheap. 
+![Uploading IMG_3293.jpeg…]()
 
 Why'd I make it?
 Its a bit of a deviation from the standard split keyboard dealy. Generally people use these same switches, but they
